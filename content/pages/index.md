@@ -14,7 +14,7 @@ sections:
       - label: Learn More NOW
         url: /features
         style: link
-      - label: lorem-ipsum
+      - label: New Button
         url: '#'
         style: link
         has_icon: false
