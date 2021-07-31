@@ -34,7 +34,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
   - type: hero_section
-    title: Hi Igor
+    title: From code
     subtitle: Optional hero section subtitle
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
